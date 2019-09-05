@@ -1,0 +1,2 @@
+COPY booking (id, date_created, id_driver, id_passenger, rating, start_date, end_date,  tour_value)
+FROM '/Users/skanchi/Downloads/data-engineer-applicant-test-11/src/main/java/resources/booking.csv' DELIMITER ',' ;
