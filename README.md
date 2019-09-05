@@ -1,6 +1,6 @@
 **Data Engineering Assignment:**
 
-Assignment is abount gathering data from various sources in the company, enrich the collected data and deliver it to stakeholders.  
+Assignment is about gathering data from various sources in the company, enrich the collected data and deliver it to stakeholders.  
 
 
 **Requirements:**
